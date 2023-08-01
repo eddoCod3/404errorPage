@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://eddocod3.github.io/404errorPage/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/eddoCod3/404errorPage">
       Solution
     </a>
     <span> | </span>
@@ -36,17 +36,20 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/eddoCod3/404errorPage)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
+The objective was to build a 404 page to send the user when the server respond with a code 404
+and for that, the page needs to be:
+- Responsive
+- Follow the guide lines of the design
 
+The project looks like a simple page, that can be easily build with css and html, using media querys,
+for the responsive part 
 
+I learn the use of the different tools in css like media queries and also, using more of the layout with html
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
